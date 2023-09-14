@@ -1,16 +1,18 @@
-### Hi there 👋
+# Serina Lopez - Tech Group Member 💼
 
-<!--
-**SerinaLopez/SerinaLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience :computer:
 
-Here are some ideas to get you started:
+- *American Reads Tutor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact :tada:
+
+I am a big football fan
+
+## Projects :rocket:
+
+- [x]
+- [ ] [Upcoming Project](https://github.com) - Details to be added.
+
+## Connect with Me :handshake:
+
+Here is my [LinkedIn](http://linkedin.com/in/serina-lopez) if you want to connect :smiley:
